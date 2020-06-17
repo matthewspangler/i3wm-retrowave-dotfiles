@@ -1,0 +1,21 @@
+set $wallpaper /home/martin/.config/wpg/wallpapers/synthwave-background-5.jpg
+
+set $background #1a1019
+set $foreground #ffdffc
+
+set $color0 #1a1019
+set $color1 #953360
+set $color2 #6B658D
+set $color3 #E4B328
+set $color4 #A0526E
+set $color5 #63526A
+set $color6 #CB5C52
+set $color7 #c9a9bf
+set $color8 #392237
+set $color9 #ce357b
+set $color10 #8073c6
+set $color11 #fff122
+set $color12 #df5a8a
+set $color13 #855e95
+set $color14 #ff6858
+set $color15 #ffdffc
