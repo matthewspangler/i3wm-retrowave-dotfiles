@@ -1,4 +1,4 @@
-## Important dotfiles
+## Important dotfiles:
 
 My custom rice uses i3wm and polybar. I have custom scripts for these in:
 .config/i3
