@@ -1,4 +1,4 @@
-## Important dotfiles:
+## Configuration:
 
 My custom rice uses i3wm and polybar. I have custom scripts for these in:
 
@@ -25,3 +25,8 @@ You will also need to install Polybar.
 
 ## Screenshot:
 ![Alt text](screenshot.jpg?raw=true "Screenshot")
+
+## Most importantly:
+
+A lovely Japanese 80's jazz-fusion album to go with the nice aesthetics:
+https://www.youtube.com/watch?v=HUnz42Hu_U0&t=2139s
