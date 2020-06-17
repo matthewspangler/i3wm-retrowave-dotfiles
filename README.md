@@ -19,5 +19,7 @@ My custom rice uses PyWal (https://github.com/dylanaraps/pywal) to generate a co
 
 My GTK2/3 themes are configured to match the Pywal palette using wpgtk (https://github.com/deviantfero/wpgtk).
 
+You will also need to install Polybar.
+
 ## Screenshot:
 ![Alt text](screenshot.jpg?raw=true "Screenshot")
