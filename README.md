@@ -1,11 +1,13 @@
 ## Important dotfiles:
 
 My custom rice uses i3wm and polybar. I have custom scripts for these in:
-.config/i3
-.config/polybar
+
+* .config/i3
+* .config/polybar
 
 I tried to use i3status for a while, but it didn't meet all my needs, so I disabled it. The config files for this are in:
-.config/i3status
+
+* .config/i3status
 
 The wallpaper is automatically set by calling .fehbg from .xinitrc. The wallpaper I used for this rice can be found here: https://wallpapercave.com/synthwave-wallpapers
 
