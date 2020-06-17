@@ -19,9 +19,9 @@ My emacs configuration files also contains custom theme that matches my i3wm ric
 
 You need i3-gaps and Polybar.
 
-My custom rice uses PyWal (https://github.com/dylanaraps/pywal) to generate a color palette based on the desktop wallpaper which is set with feh.
+My custom rice uses pywal (https://github.com/dylanaraps/pywal) to generate a color palette based on the desktop wallpaper which is set with feh.
 
-My GTK2/3 themes are configured to match the Pywal palette using wpgtk (https://github.com/deviantfero/wpgtk).
+My GTK2/3 themes are configured to match the pywal palette using wpgtk (https://github.com/deviantfero/wpgtk).
 
 ## Screenshot:
 ![Alt text](screenshot.jpg?raw=true "Screenshot")
